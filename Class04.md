@@ -1,6 +1,6 @@
-# Class 01
+# Class 04
 * Class notes for Code 102 with code fellows, starting May 23, 2022 ending May 27, 2022
-## Class 01 - May 23, 2022
+## Class 04 - May 24, 2022
 ### *Reading 4: Stucture Web Pages With HITML*
 
 What is HTML? HTML stands for hypertext markup language. Coding in HTML is how you structure a website. The best way to go about structuring a web page is to first create an outline, called a wireframe. The wireframe should be created with the purpose of the webpage in mind, audience, and what is expected to be seen by the audience. After creating a wireframe skeleton it is then time to put some meat on those bones! Some things to keep in mind when wireframing:
