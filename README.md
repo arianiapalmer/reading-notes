@@ -14,14 +14,14 @@ I'm taking classes at code fellows because I've always been a technically orient
 
 ### Reading Notes From Code 102, May 23, 2022 - May 27, 2022
 
-- [Growth Mindset](Growth mindset.md)
+- [Growth Mindset](Growthmindset.md)
 - [Class 01: Basic Markdown Syntax and GitHub](class01.md)
 - [Class 02: The Coder’s Computer](class02.md)
 - [Class 03: Revisions and the Cloud - GitHub](class03.md)
 
 
 **Contact Info**
-> should you ever need to reach me, email is best
+> Should you ever need to reach me, email is best
 > arianiapalmer@gmail.com 
 
 ❤️‍🔥 😄 🌈 ♐ 🌙 🤩 😻 🌶️ 🥳 🍥 🐞 🍜 ✈️ 🪐 🎮 
