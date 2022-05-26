@@ -1,4 +1,5 @@
 # Reading 2: The Coder’s Computer
+* Class notes for Code 102 with code fellows, starting May 23, 2022 ending May 27, 2022
 ## Choosing a Text Editor
 
 Choosing a text editor is the first component of making a computer the best friend of a developer. There are plenty of text editors to choose from but finding the right one for you can take looking at the features it supplies. Features to look out for are code completion, shorthand, syntax highlighting, different themes to choose from, and the ability to choose from a decent selection of extensions.
