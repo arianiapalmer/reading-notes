@@ -14,10 +14,12 @@ I'm taking classes at code fellows because I've always been a technically orient
 
 ### Reading Notes From Code 102, May 23, 2022 - May 27, 2022
 
-- [Growth Mindset](Growthmindset.md)
-- [Class 01: Basic Markdown Syntax and GitHub]("Class 01.md")
-- [Class 02: The Coder’s Computer]("Class 02.md")
-- [Class 03: Revisions and the Cloud - GitHub]("Class 03.md")
+- [Growth Mindset](GrowthMindset.md)
+- [Class 01: Basic Markdown Syntax and GitHub](Class01.md)
+- [Class 02: The Coder’s Computer](Class02.md)
+- [Class 03: Revisions and the Cloud - GitHub](Class03.md)
+- [Class 04: Structuring Web Pages With HTML](Class04.md)
+- [Class 05: Design Web Pages With CSS](Class05.md)
 
 
 **Contact Info**
