@@ -13,3 +13,10 @@ Useful links for referencing when building in HTML:
 
 > * My Personal favorite [link](https://developer.mozilla.org/en-US/docs/Web/HTML/Element) for referencing elements to use in my code.
 > * Another very useful [link](https://developer.mozilla.org/en-US/docs/Web/HTML) for learning some HTML themes
+
+<sub>
+Remember when coding in git:
+> A - Add
+> C - Commit
+> P - Push
+</sub>
