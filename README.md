@@ -8,7 +8,7 @@ I have 2 cats and 5 kittens (if you live in the metro Columbus area and want a c
 I enjoy learning about different cultures, languages, and mythology. I swear I should have gone to school for anthropology, but what's done is done lol! 
 I'm taking classes at code fellows because I've always been a technically oriented person. I was originally on a STEM path in life, but wanted to switch things up a bit. It was the perfect thing that I needed to help round out my learning, and now I am back on a stem path to aquire technical skills for a career. 
 
-## Welcome to arianiapalmer.github.io/reading-notes
+## Welcome to [arianiapalmer.github.io/reading-notes](https://github.com/arianiapalmer/arianiapalmer.github.io-reading-notes.git)
 > This is my Space for class notes. Welcome to my learning!
 # Code Fellows Code 102d39
 
