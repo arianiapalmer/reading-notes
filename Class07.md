@@ -1,6 +1,6 @@
 # Class 07
 * Class notes for Code 102 with code fellows, starting May 23, 2022 ending May 27, 2022
-## Class 07 - May 25, 2022
+## Class 07 - May 26, 2022
 ### *Reading 7: Pragramming With JavaScript*
 
 Like learning any language, learning JavaScript includes many new vocabulary. 
