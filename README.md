@@ -20,6 +20,8 @@ I'm taking classes at code fellows because I've always been a technically orient
 - [Class 03: Revisions and the Cloud - GitHub](Class03.md)
 - [Class 04: Structuring Web Pages With HTML](Class04.md)
 - [Class 05: Design Web Pages With CSS](Class05.md)
+- [Class 06: Dynamic Web pages With JavaScript](Class06.md)
+- [Class 07 Programming With Java Script](Class07.md)
 
 
 **Contact Info**
