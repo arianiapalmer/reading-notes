@@ -17,3 +17,14 @@ Function
 > - function name (parameter1, ){code to be executed}
 > - Function arguments are the values received by the function when it is invoked.
 > - Inside the function, the arguments (the parameters) behave as local variables.
+Operators
+>Arithmetic operators are used to perform arithmetic on numbers
+> - they can also be used to add strings (+ and +=)
+> - +    Addition
+> - -    Subtraction
+> - *    Multiplication
+> - **    Exponentiation (ES2016)
+> - /    Division
+> - %    Modulus (Division Remainder)
+> - ++    Increment
+> - --    Decrement
