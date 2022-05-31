@@ -21,7 +21,8 @@ I'm taking classes at code fellows because I've always been a technically orient
 - [Class 04: Structuring Web Pages With HTML](Class04.md)
 - [Class 05: Design Web Pages With CSS](Class05.md)
 - [Class 06: Dynamic Web pages With JavaScript](Class06.md)
-- [Class 07 Programming With Java Script](Class07.md)
+- [Class 07: Programming With Java Script](Class07.md)
+- [Class 08: Operators and Loops](Class08.md)
 - [Check out the webpage I created by the end of Code 102!](https://arianiapalmer.github.io/arisanime/)
 
 **Contact Info**
