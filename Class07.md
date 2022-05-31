@@ -1,6 +1,9 @@
 # Class 07
+
 * Class notes for Code 102 with code fellows, starting May 23, 2022 ending May 27, 2022
+
 ## Class 07 - May 26, 2022
+
 ### *Reading 7: Programming With JavaScript*
 
 Like learning any language, learning JavaScript includes many new vocabulary. 
@@ -9,13 +12,13 @@ Control Flow
 
 > - The order in which the computer executes statements in a script.
 
-Conditionals 
+Conditionals
 
 > - Conditional structures like if…else are can be used so that different code executes depending on whether the form is complete or not
 
 Loop
 
-> - Iterates through all of the fields in the form, checking each one in turn to see if the statements are met
+> * Iterates through all of the fields in the form, checking each one in turn to see if the statements are met
 
 Function
 
