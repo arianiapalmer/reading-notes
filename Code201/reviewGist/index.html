@@ -1,0 +1,59 @@
+<!DOCTYPE html>
+<html lang ="eng">
+  <head>
+    <title>Ari's Lab 01 gist</title>
+    <style>
+      h1 {
+        color: blue;
+      }
+    </style>
+  </head>
+  <body>
+    <!-- Here is everything that the user sees -->
+    <h1>Class 01 Demo</h1>
+    <h2 style="color:red;background-color:yellow;">Here are some elements</h2>
+    <h6>Here is a small subheading</h6>
+
+    <p>The is a paragraph</p>
+
+    <p>Heres a test of my code</p>
+    <script>
+      // variable
+     // let name = 'Jacob'; // string of characters
+     // const age = 32; // type Number
+     // const likeProgramming = true; // type Boolean
+      let firstName = prompt("Hey! What's your name?");{
+          console.log("users name is " firstName);
+          alert("Hey" + firstName + "!");
+      }
+      let age = prompt("How old are you?");{
+          alert("WOW" + age + " you're really getting up there huh");
+      }
+      let live = prompt("Where do you live?");{
+          alert(live + "? Sounds nice.");
+      }
+      let time = prompt("What time zone do you live in?");{
+          if(time == Eastern){
+               alert ("Hey! Same here!");
+             }
+             else{ 
+                 alert("I don't live in " + time + " I wonder what our time difference is");
+                 }
+      }
+      let sleep = prompt ("what time do you usually sleep?");{
+        alert (sleep + " Well I hope you at least get a good nights sleep");
+      }
+
+      // function invocations
+      // log output to the JS console
+      document.write("Hi " + firstName + "you are " + age + ", you live in " + live + "operating on " + time " but you sleep at " + sleep + " your time. Glad to have you in class :)");
+      
+      // asking for user input
+      //name = prompt("What is your name?");
+      //console.log('Name has been changed to: ' + name);
+    </script>
+  </body>
+  <footer>
+      I hope it turned out well
+  </footer>
+</html>
