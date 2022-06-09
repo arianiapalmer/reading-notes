@@ -33,7 +33,7 @@ To make HTML5 elements work in Internet Explorer 8 (and older versions of IE), e
 CH 18: Process & Design
 It is important to understand your user audience when creating a web page. You should know who the site is for, why people will be visiting your site, what your visitors will be trying to achieve with your site, what information your visitors will be needing, and how often people will visit your site. Understanding this will give you a better understanding of how to map your site out into sections and pages. Drafting a website can start with a wireframe, which is a simple sketch of the key information that needs to go on each page of a site. The design of a site is about communication and visual hierarchy helps visitors understand what you're trying to tell them. Grouping and similarity can be used to help simplify the information you present.
 
-#### JaveScript
+#### JavaScript
 
 JavaScript allows you to make webpages moe interactive by accessing and modifying the content and markup used ina web page while it is being viewed in the browser. It can make the web page feel interactive by reacting  to what a user does. JavaScript speaks to a website using a script, which is a series of instructions that the a computer can follow in order to achieve a goal.To write a script break down your goal into a series of taks and work out each step needed to complete that tasks, possibly using a flowchart.
 
