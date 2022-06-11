@@ -6,19 +6,23 @@
 
 ### *Reading 3: HTML Lists, CSS Boxes, JS Control Flow*
 
-HTML
+### HTML
 
-When should you use an unordered list in your HTML document?
-How do you change the bullet style of unordered list items?
-When should you use an ordered list vs an unorder list in your HTML document?
-Describe two ways you can change the numbers on list items provided by an ordered list?
+1 When should you use an unordered list in your HTML document?
+An unordered list should be used when you want to list content without indicating any specific order
+2 How do you change the bullet style of unordered list items?
+Change the bullet style of unordered list items using CSS
+3 When should you use an ordered list vs an unorder list in your HTML document?
+You should use an ordered list when you want to indicate a specific order in you list. You should use an unordered if the list order doesnt need to be organized by order.
+3 Describe two ways you can change the numbers on list items provided by an ordered list?
+You can assign the element a type attribute or a start attribute. or styling using css
 
-CSS
+### CSS
 
 Describe the CSS properties of margin and padding as characters in a story. What is their role in a story titled: “The Box Model”?
 List and describe the four parts of an HTML elements box as referred to by the box model.
 
-JS
+### JS
 
 What data types can you store inside of an Array?
 Is the people array a valid JavaScript array? If so, how can I access the values stored? If not, why?
