@@ -4,7 +4,7 @@
 
 ## Class 06 - June 13, 2022
 
-### *Reading 1: JS Object Literals; The DOM*
+### *Reading 6: JS Object Literals; The DOM*
 
 #### [JavaScript Object Basics](https://developer.mozilla.org/en-US/docs/Learn/JavaScript/Objects/Basics)
 
@@ -19,3 +19,4 @@ In the provided example, the term this refers to the name specified only within 
 #### [Introduction to the DOM](https://developer.mozilla.org/en-US/docs/Web/API/Document_Object_Model/Introduction)
 
 The DOM (document object model) is a representation of the objects that comprise the structure and content of a document on the web.
+DOM is what comprises and website and JavaScript lets you manipulate it.
