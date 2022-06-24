@@ -2,7 +2,7 @@
 
 * Class notes for Code 201 with code fellows, starting June 06, 2022 ending July 01, 2022
 
-## Class 06 - June 06, 2022
+## Class 06 - June 13, 2022
 
 ### *Reading 1: JS Object Literals; The DOM*
 
@@ -17,3 +17,5 @@ You may need to use bracket notation to access tha
 In the provided example, the term this refers to the name specified only within the object. The advantage of using this is that it can help you to call the same properties of different objects without having to call that object specifically in that line of code. 
 
 #### [Introduction to the DOM](https://developer.mozilla.org/en-US/docs/Web/API/Document_Object_Model/Introduction)
+
+The DOM (document object model) is a representation of the objects that comprise the structure and content of a document on the web.
