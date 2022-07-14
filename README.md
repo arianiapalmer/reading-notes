@@ -54,7 +54,7 @@ I'm taking classes at code fellows because I've always been a technically orient
 
 ### Reading Notes From Code 301 Intermediate Software Development, July 16, 2022 - September 17, 2022
 
-- [Class 01: ](Code301/Class01.md)
+- [Class 01: Introduction to React and Components](Code301/Class01.md)
 
 
 
