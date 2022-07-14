@@ -19,4 +19,5 @@ What information should not be stored in local storage?
 
 Local storage can store what type of data? How would you convert it to that type before storing?
 
-- Local storage can store a range of data types, refered to as JSON. Included in that are strings, numbers, boolean, null, arrays, and objects.
+- Local storage can store a range of data types, referred to as JSON. Included in that are strings, numbers, boolean, null, arrays, and objects.
+

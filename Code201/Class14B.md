@@ -1,4 +1,4 @@
-# Foundations of Software Development: Class 14
+# Foundations of Software Development: Class 14 reading B
 
 * Class notes for Code 201 with code fellows, starting June 06, 2022 ending July 01, 2022
 
