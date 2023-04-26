@@ -4,12 +4,13 @@
 
 ## A little bit about me
 
-I'm 21, I live in Columbus, OH and I went to school in Pittsburgh for a BA in Global Cultural Studies.
-I enjoy being outside, yoga, reading, playing video games, and relaxing.
-I have 2 cats and 5 kittens (if you live in the metro Columbus area and want a cat hmu!)
+I'm 22, I live in Columbus, OH and I went to school in Pittsburgh for a BA in Global Cultural Studies.
+I enjoy being outside, roller skating, yoga, reading, playing video games, and relaxing.
+I have 2 cats and a recently adopted fern.
 
-I enjoy learning about different cultures, languages, and mythology. I swear I should have gone to school for anthropology, but what's done is done lol!
-I'm taking classes at code fellows because I've always been a technically oriented person. I was originally on a STEM path in life, but wanted to switch things up a bit. It was the perfect thing that I needed to help round out my learning, and now I am back on a stem path to aquire technical skills for a career.
+I enjoy learning about different cultures, languages, and mythology.
+
+I'm taking classes at code fellows because I've always been a technically oriented person. When I first began my journey of learning,I was originally on a STEM, but wanted to switch things up a bit - hence my pursing a degree in cultural studies. It was the perfect thing that I needed to help round out my learning, and now I am back on a stem path to aquire the necessary technical skills for a career.
 
 ## Welcome to [arianiapalmer.github.io/reading-notes](https://github.com/arianiapalmer/arianiapalmer.github.io-reading-notes.git)
 

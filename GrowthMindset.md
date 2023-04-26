@@ -1,6 +1,6 @@
 ## Welcome to arianiapalmer.github.io/reading-notes
-* Class notes for Code 102 with code fellows, starting May 23, 2022 ending May 27, 2022
-## Class 01 - May 23, 2022
+* Class notes for Code 102 with code fellows
+## Class 01 
 ### *Assignment 1: Explain the growth mindset in your own words.*
 
 The growth mindset is a framework for thinking that puts progress as the leading direction of thought. Having a growth mindset as the leading direction of your everyday thoughts can allow you to overcome challenges and situations more efficiently and allow you to grow as as person. A growth mindset allows your learning to be flexible and varied, while a fixed mindset can cause you to be stagnant and make very little progress. An example of a fixed mindset versus a growth mindset is believing that the qualities you came into this life with are the qualities you leave this life with - it limits your growth by telling yourself you can’t be anything more than what you originally were. 
