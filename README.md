@@ -17,7 +17,7 @@ I'm taking classes at code fellows because I've always been a technically orient
 
 # Code Fellows Code 102d39
 
-### Reading Notes From Code 102, Introduction To Software Developmemt May 23, 2022 - May 27, 2022
+### Reading Notes From Code 102, Introduction To Software Developmemt 
 
 - [Growth Mindset](GrowthMindset.md)
 - [Class 01: Basic Markdown Syntax and GitHub](Code102/Class01.md)
@@ -32,11 +32,11 @@ I'm taking classes at code fellows because I've always been a technically orient
 
 # Code Fellows Code 201d87
 
-### Reading Notes From Code 201 Foundations of Software Development, June 06, 2022 - July 01, 2022
+### Reading Notes From Code 201 Foundations of Software Development
 
 - [Class 01: Introductory HTML and JavaScript](Code201/Class01.md)
 - [Class 02: HTML Text, CSS Introduction, and Basic JavaScript Instructions](Code201/Class02.md)
-- [Class 03: HTML Lists, CSS Boxes, JS Control Flow](Code201/Class03.md)
+<!-- - [Class 03: HTML Lists, CSS Boxes, JS Control Flow](Code201/Class03.md)
 - [Class 04: HTML Links, CSS Layout, JS Functions](Code201/Class04.md)
 - [Class 05: HTML Images; CSS Color, text](Code201/Class05.md)
 - [Class 06: JS Object Literals; The DOM](Code201/Class06.md)
@@ -48,14 +48,15 @@ I'm taking classes at code fellows because I've always been a technically orient
 - [Class 12: Docs for the HTML canvas Element & Chart.js](Code201/Class12.md)
 - [Class 13: Local Storage](Code201/Class13.md)
 - [Class 14: CSS Transforms, Transitions, and Animations](Code201/Class14.md)
-- [Class 14b: What Google Learned About Teams](Code201/Class13.md)
+- [Class 14b: What Google Learned About Teams](Code201/Class13.md) -->
 
 # Code Fellows Code 301n27
 
-### Reading Notes From Code 301 Intermediate Software Development, July 16, 2022 - September 17, 2022
-
+### Reading Notes From Code 301 Intermediate Software Development, 
+<!-- 
 - [Class 01: Introduction to React and Components](Code301/Class01.md)
 - [Class 02: State and Props](Code301/Class02.md)
+- [Class 03: Passing Functions as Props](Code301/Class03.md) -->
 
 
 
