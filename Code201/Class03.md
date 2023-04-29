@@ -1,6 +1,6 @@
 # Foundations of Software Development: Class 01
 
-* Class notes for Code 201 with code fellows, starting June 06, 2022 ending July 01, 2022
+* Class notes for Code 201 
 
 ## Class 03 - June 08, 2022
 
@@ -8,13 +8,13 @@
 
 ### HTML
 
-1 When should you use an unordered list in your HTML document?
+- When should you use an unordered list in your HTML document?
 An unordered list should be used when you want to list content without indicating any specific order
-2 How do you change the bullet style of unordered list items?
+- How do you change the bullet style of unordered list items?
 Change the bullet style of unordered list items using CSS
-3 When should you use an ordered list vs an unorder list in your HTML document?
+- When should you use an ordered list vs an unorder list in your HTML document?
 You should use an ordered list when you want to indicate a specific order in you list. You should use an unordered if the list order doesnt need to be organized by order.
-3 Describe two ways you can change the numbers on list items provided by an ordered list?
+- Describe two ways you can change the numbers on list items provided by an ordered list?
 You can assign the element a type attribute or a start attribute. or styling using css
 
 ### CSS

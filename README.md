@@ -37,6 +37,8 @@ I'm taking classes at code fellows because I've always been a technically orient
 
 - [Class 01: Introductory HTML and JavaScript](Code201/Class01.md)
 - [Class 02: HTML Text, CSS Introduction, and Basic JavaScript Instructions](Code201/Class02.md)
+- [Class 03: HTML Lists, CSS Boxes, JS Control Flow](Code201/Class03.md)
+
 
 
 # Code Fellows Code 301n27
