@@ -2,7 +2,7 @@
 
 * Class notes for Code 201 
 
-## Class 03 - June 08, 2022
+## Class 03
 
 ### *Reading 3: HTML Lists, CSS Boxes, JS Control Flow*
 
@@ -24,7 +24,7 @@ List and describe the four parts of an HTML elements box as referred to by the b
 
 ### JS
 
-What data types can you store inside of an Array?
+-  What data types can you store inside of an Array?
 Is the people array a valid JavaScript array? If so, how can I access the values stored? If not, why?
 
  const people = [['pete', 32, 'librarian', null], ['Smith', 40, 'accountant', 'fishing:hiking:rock_climbing'], ['bill', null, 'artist', null]];
