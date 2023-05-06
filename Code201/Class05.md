@@ -1,12 +1,15 @@
-# Foundations of Software Development: Class 01
+# Foundations of Software Development: Class 05
 
-* Class notes for Code 201 with code fellows, starting June 06, 2022 ending July 01, 2022
+* Class notes for Code 201 with code fellows
 
-## Class 01 - June 11, 2022
+## Class 05 
 
 ### *Reading 5: HTML Images; CSS Color, text*
 
-#### HTML Media
+#### [HTML Media](https://developer.mozilla.org/en-US/docs/Learn/HTML/Multimedia_and_embedding)
+
+#### [Using Images In HTML](https://developer.mozilla.org/en-US/docs/Learn/HTML/Multimedia_and_embedding/Images_in_HTML) , [Common Image Types](https://developer.mozilla.org/en-US/docs/Web/Media/Formats/Image_types) , [Choosing Image Formats](https://developer.mozilla.org/en-US/docs/Web/Media/Formats/Image_types#choosing_an_image_format).
+
 
 A real world use for the alt attribute in a website is when a webpage isn't rendering due to a poor connection so the image isnt able to load, the user still has an idea of what is is that's supposed to be there.
 To help improve the accessibility of images in an HTML document you can add titles, captions, and to your images.
@@ -14,7 +17,10 @@ The figure element would be useful in an HTML Document when you have alot of pic
 The difference between a gif and svg is  gif is use specifically for interchanging graphics while svg is used to draw graphics and where size may become a changing factor.
 I would prefer to use png to display a screenshot on my web page because it would better display text.
 
-#### Learn CSS 
+#### [Learn CSS](https://developer.mozilla.org/en-US/docs/Learn/CSS) 
+
+#### [Using Color in CSS](https://developer.mozilla.org/en-US/docs/Web/CSS/CSS_Colors/Applying_color), [Styling HTML Text Elements]()
+#### [Using Color in CSS](https://developer.mozilla.org/en-US/docs/Web/CSS/CSS_Colors/Applying_color), [Styling HTML Text Elements]()
 
 The difference between foreground and background colors is that foreground sets the color of the entire element, like the text, while background color only changes the background color, behind the text.
 I would give the entire page a theme of three colors, with a base one and three accent colors, probable using the paletton since its what i liked the best.
