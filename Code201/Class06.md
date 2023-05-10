@@ -1,8 +1,8 @@
 # Foundations of Software Development: Class 06
 
-* Class notes for Code 201 with code fellows, starting June 06, 2022 ending July 01, 2022
+* Class notes for Code 201 with code fellows
 
-## Class 06 - June 13, 2022
+## Class 06 
 
 ### *Reading 6: JS Object Literals; The DOM*
 

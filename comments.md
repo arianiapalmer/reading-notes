@@ -1,5 +1,4 @@
 
-- [Class 06: JS Object Literals; The DOM](Code201/Class06.md)
 - [Class 07: HTML Tables; JS Constructor Functions](Code201/Class07.md)
 - [Class 08: CSS Layout](Code201/Class08.md)
 - [Class 09: Forms And Event](Code201/Class09.md)
