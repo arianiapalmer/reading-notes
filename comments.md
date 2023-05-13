@@ -1,5 +1,4 @@
 
-- [Class 07: HTML Tables; JS Constructor Functions](Code201/Class07.md)
 - [Class 08: CSS Layout](Code201/Class08.md)
 - [Class 09: Forms And Event](Code201/Class09.md)
 - [Class 10: JS Debugging](Code201/Class10.md)
