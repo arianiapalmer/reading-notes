@@ -42,7 +42,9 @@ I'm taking classes at code fellows because I've always been a technically orient
 - [Class 05: HTML Images; CSS Color, text](Code201/Class05.md)
 - [Class 06: JS Object Literals; The DOM](Code201/Class06.md)
 - [Class 07: HTML Tables; JS Constructor Functions](Code201/Class07.md)
-
+- [Class 08: CSS Layout](Code201/Class08.md)
+- [Class 09: Forms And Event](Code201/Class09.md)
+- [Class 10: JS Debugging](Code201/Class10.md)
 
 # Code Fellows Code 301n27
 
