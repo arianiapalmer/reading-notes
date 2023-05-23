@@ -1,8 +1,8 @@
 # Foundations of Software Development: Class 10
 
-* Class notes for Code 201 with code fellows, starting June 06, 2022 ending July 01, 2022
+* Class notes for Code 201 with code fellows
 
-## Class 10 - June 06, 2022
+## Class 10
 
 ### *Reading 10: JS Debugging*
 

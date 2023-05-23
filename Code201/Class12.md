@@ -1,8 +1,8 @@
 # Foundations of Software Development: Class 12
 
-* Class notes for Code 201 with code fellows, starting June 06, 2022 ending July 01, 2022
+* Class notes for Code 201 with code fellows
 
-## Class 12 - June 21, 2022
+## Class 12
 
 ### *Reading 12: Docs for the HTML < canvas> Element & Chart.js*
 

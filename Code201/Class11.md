@@ -1,8 +1,8 @@
 # Foundations of Software Development: Class 11
 
-* Class notes for Code 201 with code fellows, starting June 06, 2022 ending July 01, 2022
+* Class notes for Code 201 with code fellows
 
-## Class 11 - June 17, 2022
+## Class 11
 
 ### *Reading 11: Assorted Topics*
 
