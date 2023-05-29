@@ -19,5 +19,4 @@ Grid container is a parent that defines the element as the container for the gri
 
 #### [Responsive Images](https://developer.mozilla.org/en-US/docs/Learn/HTML/Multimedia_and_embedding/Responsive_images)
 
-Developers should make images responsive 
-
+Developers should make images responsive not only to make it look more appealing across different screen sizes, but to also not waste the bandwidth of users who are viewing a site on a mobile screen. The srcset attribute defines the set of images the browser is allowed to choose between and what size each image is. The sizes attribute defines a set of media conditions and indicates what image size would be best to choose when certain media conditions are true. The srcset attribute is most helpful for responsive images than css or js because it effects screen loading times.
