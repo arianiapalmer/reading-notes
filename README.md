@@ -46,6 +46,8 @@ I'm taking classes at code fellows because I've always been a technically orient
 - [Class 09: Forms And JS Events](Code201/Class09.md)
 - [Class 10: JS Debugging](Code201/Class10.md)
 - [Class 11: Assorted Topics](Code201/Class11.md)
+- [Class 12: Docs for the HTML canvas Element & Chart.js](Code201/Class12.md)
+- [Class 13: Local Storage](Code201/Class13.md)
 
 # Code Fellows Code 301n27
 
