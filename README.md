@@ -48,7 +48,7 @@ I'm taking classes at code fellows because I've always been a technically orient
 - [Class 11: Assorted Topics](Code201/Class11.md)
 - [Class 12: Docs for the HTML canvas Element & Chart.js](Code201/Class12.md)
 - [Class 13: Local Storage](Code201/Class13.md)
-- [Class 14b: What Google Learned About Teams](Code201/Class13.md)
+- [Class 14b: What Google Learned About Teams](Code201/Class14.md)
 
 
 # Code Fellows Code 301n27
