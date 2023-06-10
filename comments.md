@@ -1,7 +1,6 @@
 
 
 - [Class 14: CSS Transforms, Transitions, and Animations](Code201/Class14.md)
-- [Class 14b: What Google Learned About Teams](Code201/Class13.md)
 
 # Code Fellows Code 301n27
 
